@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <orak>
     <ora>
-        <nev>Matematika</nev>
-        <tanar>Áron</tanar>
-        <hetiDarab>4</hetiDarab>
-        <kotelezo>Igen</kotelezo>
-    </ora>
-    <ora>
         <nev>Irodalom</nev>
-        <tanar>tomi</tanar>
-        <hetiDarab>3</hetiDarab>
-        <kotelezo>Nem</kotelezo>
+        <tanar>Kincső</tanar>
+        <hetiDarab>9</hetiDarab>
+        <kotelezo>Igen</kotelezo>
     </ora>
     <ora>
         <nev>Történelem</nev>
         <tanar>Enikő</tanar>
         <hetiDarab>2</hetiDarab>
         <kotelezo>Igen</kotelezo>
+    </ora>
+    <ora>
+        <nev>Testnevelés</nev>
+        <tanar>Tamás</tanar>
+        <hetiDarab>7</hetiDarab>
+        <kotelezo>Nem</kotelezo>
     </ora>
 </orak>
